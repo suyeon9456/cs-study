@@ -5,4 +5,5 @@
 - 2026-09-02: [핵심 필수 API] Fetch API
 - 2026-09-08: [핵심 필수 API] DOM API
 - 2026-11-04: [핵심 필수 API] URL API
+- 2026-11-05: [핵심 필수 API] Web Storage API
 
