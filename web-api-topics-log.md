@@ -7,4 +7,5 @@
 - 2026-11-04: [핵심 필수 API] URL API
 - 2026-11-05: [핵심 필수 API] Web Storage API
 - 2026-11-06: [핵심 필수 API] History API
+- 2026-11-07: [핵심 필수 API] FormData API
 
