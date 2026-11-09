@@ -10,4 +10,5 @@
 - 2026-11-07: [핵심 필수 API] FormData API
 - 2026-11-08: [이벤트/관찰자 API] EventTarget & CustomEvent
 - 2026-11-09: [이벤트/관찰자 API] Intersection Observer API
+- 2026-11-10: [이벤트/관찰자 API] MutationObserver API
 
