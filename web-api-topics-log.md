@@ -13,4 +13,5 @@
 - 2026-11-10: [이벤트/관찰자 API] MutationObserver API
 - 2026-11-11: [이벤트/관찰자 API] ResizeObserver API
 - 2026-11-12: [파일/입력 API] File API & FileReader
+- 2026-11-13: [파일/입력 API] Clipboard API
 
