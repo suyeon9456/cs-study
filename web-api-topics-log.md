@@ -15,4 +15,5 @@
 - 2026-11-12: [파일/입력 API] File API & FileReader
 - 2026-11-13: [파일/입력 API] Clipboard API
 - 2026-11-14: [파일/입력 API] Drag and Drop API
+- 2026-11-15: [성능/오프라인 API] Web Workers API
 
