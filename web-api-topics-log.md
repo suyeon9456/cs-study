@@ -19,4 +19,5 @@
 - 2026-11-16: [성능/오프라인 API] Service Worker API & Cache API (PWA)
 - 2026-11-17: [성능/오프라인 API] IndexedDB API
 - 2026-11-18: [성능/오프라인 API] Performance API
+- 2026-11-19: [실시간/통신 API] WebSocket API
 
