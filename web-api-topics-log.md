@@ -24,4 +24,5 @@
 - 2026-11-21: [실시간/통신 API] WebRTC API
 - 2026-11-22: [실시간/통신 API] Broadcast Channel API
 - 2026-11-23: [UX 향상 API] Notification API
+- 2026-11-24: [UX 향상 API] Geolocation API
 
