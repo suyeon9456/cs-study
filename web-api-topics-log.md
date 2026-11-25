@@ -26,4 +26,5 @@
 - 2026-11-23: [UX 향상 API] Notification API
 - 2026-11-24: [UX 향상 API] Geolocation API
 - 2026-11-25: [UX 향상 API] Web Share API
+- 2026-11-26: [UX 향상 API] Screen Wake Lock API
 
